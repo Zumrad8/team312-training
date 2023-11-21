@@ -2,3 +2,6 @@
 
 - Paul Taach
 - Zumrad Rizamatova
+- Kira Zaplatynska
+
+
